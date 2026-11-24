@@ -26,6 +26,7 @@
 
     <modules>
         <module>services/config-server</module>
+        <module>services/discovery-server</module>
     </modules>
 
     <dependencyManagement>
