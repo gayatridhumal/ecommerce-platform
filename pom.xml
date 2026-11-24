@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.gayatri.ecommerce</groupId>
+    <groupId>com.edu.ecommerce</groupId>
     <artifactId>ecommerce-platform</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -24,12 +24,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    <!-- Modules are added here as we create them, for example:
     <modules>
-        <module>events-contracts</module>
         <module>services/config-server</module>
     </modules>
-    -->
 
     <dependencyManagement>
         <dependencies>
