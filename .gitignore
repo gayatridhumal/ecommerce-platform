@@ -1,0 +1,19 @@
+# Build output
+target/
+*.class
+*.jar
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Secrets and local config (never commit these)
+.env
+*.env.local
+
+# Node (Angular, later)
+node_modules/
+dist/
